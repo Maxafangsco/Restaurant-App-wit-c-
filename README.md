@@ -1,3 +1,13 @@
+
+
+
+![Screenshot (14)](https://github.com/Maxafangsco/Restaurant-App-wit-c-/assets/39309700/42f66214-e91e-4e50-a831-e8781bff5314)
+![Screenshot (16)](https://github.com/Maxafangsco/Restaurant-App-wit-c-/assets/39309700/0ccdd456-b568-48e1-a42b-ec93c6b9b1b1)
+![Screenshot (15)](https://github.com/Maxafangsco/Restaurant-App-wit-c-/assets/39309700/7047689b-84fa-4c8c-add6-f8708d2e5446)
+
+
+
+
 # Restaurant-App-wit-c#
 
 This comprehensive Windows Forms GUI application provides a user-friendly interface for managing customer data, creating orders, and ensuring efficient information storage and retrieval.
